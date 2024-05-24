@@ -1,6 +1,6 @@
 /*******************************************************************************************************************
  * @details   : This sketch demonstrates how to connect an Arduino board with W5500 Ethernet shield to a MQTT broker
- *              and subscribe to a topic.
+ *              and subscribe to topic.
  *
  * @authors   : Satish Kanawade (Embedded Software Developer)
  *
