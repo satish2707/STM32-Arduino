@@ -26,11 +26,11 @@ EthernetClient Ethernet_Client_MQTT_Obj;
 MQTTPubSubClient MQTT_Driver;
 
 // MQTT broker parameters
-#define MQTT_Server_Hostname "110.110.125.40"
+#define MQTT_Server_Hostname "110.110.120.40"
 #define MQTT_Server_PORT 1883
 #define MQTT_Server_Topic "100002"
 #define MQTT_Server_UserName "admin"
-#define MQTT_Server_Password "Reset1234"
+#define MQTT_Server_Password "123456"
 #define MQTT_Server_ClientID MQTT_Server_Topic
 
 // Function to connect to MQTT broker
