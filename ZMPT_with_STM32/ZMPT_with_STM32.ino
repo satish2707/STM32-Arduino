@@ -1,7 +1,7 @@
 /*******************************************************************************************************************
  * @details   : This sketch demonstrates ZMPT Module Interface with STM32 for Measure AC voltage 
  *
- * @authors   : Satish Kanawade (Embedded Software Developer)
+ * @authors   : Satish Kanawade(Embedded Software Developer)
  *
  * @copyright : Embedlogiclancer
  *
